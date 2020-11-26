@@ -1,0 +1,19 @@
+body {
+	font-family: 'Nerko One', cursive;
+}
+
+h1{
+	color: yellowgreen;
+}
+
+h2{
+	color: orange;
+}
+
+.btn-primary {
+	background-color: orange;
+}
+
+background {
+	color: gray;
+}
